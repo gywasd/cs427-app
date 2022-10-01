@@ -7,13 +7,13 @@ The code for CS427 Android app.
 <br/>
 | Name          | NetID         | GitHub ID   | Role          | Experience    |
 | ------------- | ------------- | ------------| ------------- | ------------- |
-|               |               |             |               |               |            
-|               |               |             |               |               |
-|               |               |             |               |               |
-|               |               |             |               |               |
-|               |               |             |               |               |
-|               |               |             |               |               |
-|               |               |             |               |               |
+|Sharath Chandra| sharath-sce3  | sce3        | Manager       | Java          |            
+|Vikas Sharma   | vikass2       | vikas2299   | Tech Lead     | Java          |
+|Vladyslava Rybka| vrybka2      | vrybka2     | Developer     | Java          |
+|Sijia Fan      |  sijiaf4      | scarlettfan0108| Developer  | Java          |
+|Tianli Ding    |  td2          | tianliDing  | Developer     | Java          |
+|Yuling Gao     |  yg28         | YulingGao   | Developer     | Java          |
+|Yun Gao        |  yungao3      | gywasd      | Developer     | Java          |
 |               |               |             |               |               |
 <br/>
 
